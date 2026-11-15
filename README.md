@@ -1,3 +1,15 @@
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: ANUSHIYA R
+
+*INTERN ID*: CITS9913
+
+*DOMAIN*:DATA ANALYTICS INTERN
+
+*DURATION*: 4 WEEKS
+
+
 # 🛒 E-Commerce Conversion Rate Analysis
 
 ## 1. Project Overview
